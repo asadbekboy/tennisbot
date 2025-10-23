@@ -1,0 +1,5 @@
+aiogram==3.*
+flask==3.*
+python-dotenv==1.*
+apscheduler==3.*
+requests==2.*
